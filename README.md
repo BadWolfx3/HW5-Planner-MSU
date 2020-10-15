@@ -12,5 +12,13 @@ When a timeblock is clicked they enter an event. When the save button for a time
 * HTML
 * Moment.js
 * CSS
+* Javascript
+
+## Deployed Application
+https://badwolfx3.github.io/HW5-Planner-MSU/
+
+## Screenshots
+![First Screensho](/Assets/Images/WDS1.png)
+![Second Screenshot](/Assets/Images/WDS2.png)
 
 
